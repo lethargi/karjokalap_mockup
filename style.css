@@ -1,0 +1,19 @@
+html,body {
+  height:100%;
+}
+
+.my-borders {
+  border: 2px solid grey;
+  padding: 3rem;
+  border-radius: 25px;
+}
+
+.home-buttons {
+  text-align:center;
+  padding: 1rem;
+}
+
+.home-buttons img {
+  height:40px;
+  width:40px;
+}
